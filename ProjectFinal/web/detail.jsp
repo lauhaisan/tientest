@@ -80,7 +80,7 @@
             <div id="head-link">
                 <ul style="margin-left: 10px">
                     <li>
-                        <a href="homedata.jsp"> All Laptops |</a>
+                        <a href="homedata.jsp"> All Laptopsssss |</a>
                     </li>
                     <!--                    <li>
                                             <a href="CreateXMLServlet"></a>
