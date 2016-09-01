@@ -1,0 +1,9 @@
+table #contact{
+  border:none;
+}
+table td{
+  border:none;
+  height: 20px;
+  width: 20px;
+  background: none;
+}
